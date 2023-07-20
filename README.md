@@ -1,5 +1,3 @@
-# Resources
-Resources
 # Learning Resources
 
 Welcome to my learning resources subpage! Here, I have compiled a list of useful resources, tutorials, and reference materials that I have utilized during my learning journey in various subjects. These resources have been instrumental in enhancing my knowledge and skills.
