@@ -87,4 +87,4 @@ Welcome to my learning resources subpage! Here, I have compiled a list of useful
 - [Stack Overflow](https://stackoverflow.com/) - Community-driven question and answer platform for programming-related queries.
 - [Medium](https://medium.com/) - Platform for articles and tutorials on various subjects.
 
-Feel free to explore these resources and learn from them. Happy learning!
+Feel free to explore these resources and learn from them. <br>Happy learning!
